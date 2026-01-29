@@ -1,0 +1,29 @@
+# Virtual environments
+Labs/lab-venv/
+lab-venv/
+venv/
+.venv/
+env/
+ENV/
+venv*/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# dotenv
+.env
